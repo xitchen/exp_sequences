@@ -2,8 +2,8 @@
 1,0,1,0,0,1,0,1,1,0,0,1
 2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
 1,1,1,1,1,1,1,1,1,1,1,1
-11,11,11,11,11,11,11,11,11,11,11,11
+0,0,0,0,0,0,0,0,0,0,0,0
 2,1,2,1,1,2,1,2,2,1,1,2
 2,2,2,2,2,2,2,2,2,2,2,2
-scales_cross_gray,scales_cross_gray,scales_cross_brown,scales_cross_brown,scales_cross_brown,scales_cross_brown,scales_arrow_gray,scales_arrow_brown,scales_arrow_gray,scales_arrow_brown,scales_arrow_brown,scales_arrow_gray
-spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_gray,spiral_cross_gray,spiral_arrow_gray,spiral_arrow_brown,spiral_cross_brown,spiral_cross_gray,spiral_arrow_gray,spiral_arrow_brown
+scales_arrow_brown,scales_cross_gray,scales_cross_gray,scales_cross_brown,scales_cross_brown,scales_cross_brown,scales_cross_brown,scales_arrow_gray,scales_arrow_brown,scales_arrow_gray,scales_arrow_brown,scales_arrow_brown
+spiral_arrow_gray,spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_brown,spiral_arrow_gray,spiral_cross_gray,spiral_arrow_gray,spiral_arrow_brown,spiral_cross_brown,spiral_cross_gray,spiral_arrow_gray

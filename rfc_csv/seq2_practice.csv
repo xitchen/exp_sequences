@@ -1,9 +1,9 @@
-1,2,2,1,1,2,1,1,2,2,1,2
-1,0,0,1,1,0,1,1,0,0,1,0
+1,1,2,2,1,2,1,1,2,2,1,2
+1,1,0,0,1,0,1,1,0,0,1,0
 2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
 1,1,1,1,1,1,2,2,2,2,2,2
-10,10,10,10,10,10,14,14,14,14,14,14
-1,2,2,1,1,2,1,1,2,2,1,2
+0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2,2,1,2,1,1,2,2,1,2
 2,2,2,2,2,2,5,5,5,5,5,5
-wave_pentagon_green,grid_pentagon_green,grid_triangle_green,wave_triangle_green,wave_pentagon_green,wave_pentagon_green,hollow_oval_red,hollow_oval_red,zigzag_diamond_red,zigzag_diamond_red,zigzag_diamond_red,hollow_diamond_blue
-wave_pentagon_yellow,wave_triangle_yellow,grid_pentagon_yellow,grid_pentagon_yellow,grid_triangle_yellow,grid_triangle_yellow,hollow_diamond_red,hollow_diamond_red,hollow_diamond_red,hollow_oval_blue,hollow_diamond_red,hollow_diamond_red
+grid_pentagon_green,wave_triangle_green,wave_triangle_green,wave_pentagon_green,grid_pentagon_green,grid_triangle_green,hollow_oval_red,zigzag_oval_blue,zigzag_oval_blue,hollow_oval_red,hollow_oval_red,zigzag_diamond_red
+wave_triangle_yellow,wave_pentagon_yellow,wave_pentagon_yellow,wave_pentagon_yellow,wave_triangle_yellow,grid_pentagon_yellow,zigzag_diamond_blue,zigzag_diamond_blue,hollow_diamond_red,hollow_diamond_red,hollow_diamond_red,hollow_diamond_red
