@@ -1,9 +1,9 @@
-1,1,2,2,1,2,1,1,2,2,1,2,1,1,2,2,1,2
-0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,1,0,1
+1,1,2,2,1,2,2,1,2,1,1,2,2,1,2,1,1,2
+1,1,0,0,1,0,0,1,0,1,1,0,0,1,0,1,1,0
 2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
 1,1,1,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,1,2,2,1,2,1,1,2,2,1,2,1,1,2,2,1,2
+1,1,2,2,1,2,2,1,2,1,1,2,2,1,2,1,1,2
 2,2,2,2,2,2,5,5,5,5,5,5,1,1,1,1,1,1
-hollow_oval_teal,hollow_oval_teal,dot_oval_teal,hollow_oval_pink,hollow_oval_teal,hollow_oval_pink,wave_pentagon_blue,checkerboard_triangle_blue,checkerboard_pentagon_red,wave_pentagon_blue,wave_triangle_red,wave_pentagon_blue,,,,,,
-hollow_diamond_teal,dot_diamond_teal,hollow_diamond_pink,hollow_diamond_teal,hollow_diamond_teal,dot_diamond_teal,wave_pentagon_red,wave_pentagon_red,wave_pentagon_red,checkerboard_pentagon_blue,checkerboard_triangle_red,wave_triangle_blue,,,,,,
+checkerboard_oval_red,checkerboard_oval_blue,checkerboard_oval_red,stripe_oval_red,stripe_oval_red,checkerboard_oval_red,zigzag_star_purple,zigzag_star_purple,solid_star_orange,zigzag_heart_orange,solid_heart_purple,zigzag_star_purple,,,,,,
+stripe_diamond_blue,stripe_diamond_red,stripe_diamond_blue,stripe_diamond_red,checkerboard_diamond_red,stripe_diamond_blue,zigzag_heart_purple,solid_star_purple,zigzag_heart_purple,zigzag_star_orange,zigzag_star_orange,zigzag_star_orange,,,,,,
